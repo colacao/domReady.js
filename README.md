@@ -7,7 +7,7 @@ Let DOMContentLoaded Event cross Browser,useful domready code.
 
 domReady.js是DOMContentLoaded事件跨浏览器的一个解决方案。由于IE6,7,8不支持DOMContentLoaded事件，通过一些方式来模拟这个事件使其达到DOMContentLoaded事件的效果。
 
-# example:
+# Example
 
 `onDomReady(function() {
       console.log('dom is loaded...');
