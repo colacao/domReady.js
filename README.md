@@ -16,7 +16,7 @@ domReady.js是DOMContentLoaded事件跨浏览器的一个解决方案。由于IE
 # Questions?
 If you have any questions, please feel free to ask through [New Issues](https://github.com/jockchou/domReady.js/issues/new).
 
-Or you post me a email by yesjock@gmail.com
+Or you can post me a email by yesjock@gmail.com
 
 
 # License
