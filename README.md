@@ -16,6 +16,8 @@ domReady.js是DOMContentLoaded事件跨浏览器的一个解决方案。由于IE
 # Questions?
 If you have any questions, please feel free to ask through [New Issues](https://github.com/jockchou/domReady.js/issues/new).
 
+Or you post me a email by yesjock@gmail.com
+
 
 # License
 domReady.js is available under the terms of the [MIT License](https://github.com/jockchou/domReady.js/blob/master/LICENSE).
